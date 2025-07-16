@@ -16,3 +16,5 @@ https://github.com/nknighta/helpapp-flutter
 
 技術仕様について
 https://nknighta.github.io/helpapp-flutter/
+
+https://github.com/nknighta/dart_vs_typescript
